@@ -108,8 +108,9 @@ Sample predictions from the Random Forest model:
    git clone https://github.com/myslyurt/SpaceX-s-Falcon-9-Prediction-Data-Scientist-Professional-certificate-project-IBM.git
    cd SpaceX-s-Falcon-9-Prediction-Data-Scientist-Professional-certificate-project-IBM
    
+
 ### **Contact**
 If you have any questions or suggestions, please contact:
 - **Name**: Murat Yesilyurt
 - **Email**: myesilyurtdsc@gmail.com
-- **GitHub**: [Murat Yesilyurt](https://github.com/myslyurt)
+- **Linkedin**: [Murat Yesilyurt](https://www.linkedin.com/in/yesilyurt-murat/)
