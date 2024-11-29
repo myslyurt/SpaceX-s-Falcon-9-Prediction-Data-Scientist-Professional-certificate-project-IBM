@@ -1,0 +1,17 @@
+
+---
+
+### requirements.txt
+
+```plaintext
+pandas
+numpy
+matplotlib
+seaborn
+scikit-learn
+folium
+dash
+plotly
+sqlalchemy
+beautifulsoup4
+requests
